@@ -3,7 +3,7 @@ while true; do
 
 # Get the data
 echo "Getting data from Seneye API..."
-data=$(curl -s 'https://api.seneye.com/v1/devices/7612?IncludeState=1&user=mrsneddy@mac.com&pwd=F22y3xW2!')
+data=$(curl -s 'https://api.seneye.com/v1/devices/7612?IncludeState=1&user=mrsneddy@mac.com&pwd=')
 
 #get the device details
 
